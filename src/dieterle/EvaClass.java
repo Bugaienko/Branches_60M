@@ -10,6 +10,8 @@ public class EvaClass {
 
     @Override
     public String toString() {
-        return "Меня зовут " + name + ".";
+        return name;
     }
+
+
 }
