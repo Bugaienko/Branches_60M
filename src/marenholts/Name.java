@@ -1,4 +1,4 @@
-package Marenholts;
+package marenholts;
 
 public class Name {
     @Override
