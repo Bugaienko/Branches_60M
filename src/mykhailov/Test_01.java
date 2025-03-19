@@ -7,8 +7,8 @@ public class Test_01 {
         return "Konstantin";
     }
 
-    public static void main(String[] args) {
-        Test_01 test01 = new Test_01();
-        System.out.println(test01.toString());
-    }
+//    public static void main(String[] args) {
+//        Test_01 test01 = new Test_01();
+//        System.out.println(test01.toString());
+//    }
 }
