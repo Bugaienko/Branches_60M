@@ -1,4 +1,4 @@
-package anonymous;
+package bugaenko;
 
 /**
  * @author Sergey Bugaenko
@@ -6,6 +6,7 @@ package anonymous;
  */
 
 public class MyClass {
+
     @Override
     public String toString() {
         return "Sergey";
